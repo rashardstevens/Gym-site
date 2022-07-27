@@ -70,6 +70,7 @@ html {
   display: none;
   cursor: pointer;
 }
+/* background image */
 
 .back {
   background-image: url(bg-2.jpg);
@@ -85,6 +86,7 @@ html {
   height: 100%;
   opacity: 0.85;
 }
+/*Middle of hero*/
 
 .mid {
   position: absolute;
@@ -104,6 +106,8 @@ html {
   color: #fff;
   font-size: 3rem;
 }
+/* Middle hero buttons*/
+
 .mid .btn {
   margin-top: 2rem;
 }
@@ -135,6 +139,7 @@ html {
   border: 1px solid #fff;
   background: #fff;
 }
+/*New To The Gym Section*/
 
 .details {
   width: 100%;
@@ -206,6 +211,7 @@ h5 {
   color: #666262;
   margin-bottom: 0.8rem;
 }
+/*meet the team section*/
 
 .trainer {
   display: flex;
@@ -342,6 +348,7 @@ h5 {
 .trainer .people .team2 .teamDetails .pro p {
   color: #212529;
 }
+/*our training class section*/
 
 .class {
   display: flex;
@@ -437,6 +444,7 @@ h5 {
   justify-content: space-between;
   padding: 8rem;
 }
+/*contact form*/
 
 .contact .form {
   width: 45%;
@@ -513,6 +521,7 @@ textarea:focus {
 .contact .map iframe {
   width: 100%;
 }
+/*footer section*/
 
 .footer {
   border-top: 1px solid #ecf0f1;
@@ -531,6 +540,7 @@ textarea:focus {
 .footer p i {
   color: yellow;
 }
+/* responsive design section*/
 
 @media screen and (max-width: 1042px) {
   .nav {
